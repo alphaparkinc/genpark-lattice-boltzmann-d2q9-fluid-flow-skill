@@ -1,0 +1,6 @@
+name: genpark-lattice-boltzmann-d2q9-fluid-flow-skill
+version: 1.0.0
+description: D2Q9 Lattice Boltzmann Method (LBM) fluid solver with BGK collision and obstacle boundary conditions
+command: python
+args:
+  - mcp_server.py
