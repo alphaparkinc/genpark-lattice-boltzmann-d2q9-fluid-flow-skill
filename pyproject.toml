@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-lattice-boltzmann-d2q9-fluid-flow-skill"
+version = "1.0.0"
+description = "D2Q9 Lattice Boltzmann Method (LBM) fluid solver with BGK collision and obstacle boundary conditions"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
